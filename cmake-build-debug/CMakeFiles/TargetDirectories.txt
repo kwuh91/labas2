@@ -1,0 +1,3 @@
+C:/Users/HYPERPC/CLionProjects/labas2/cmake-build-debug/CMakeFiles/labas2.dir
+C:/Users/HYPERPC/CLionProjects/labas2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/HYPERPC/CLionProjects/labas2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
